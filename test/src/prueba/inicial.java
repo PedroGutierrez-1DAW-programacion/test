@@ -5,6 +5,7 @@ public class inicial {
 	static double PI =  Math.PI;
 	
 	public static void main(String[] args) {
+		// Test
 		boolean A, B, C, D, E, F;
 		int X, Y, Z;
 				
